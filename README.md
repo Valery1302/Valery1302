@@ -1,6 +1,7 @@
 # Soy Valeria Gutierrez
 ## Sobre mi
-Me apasiona la lógica de fusionar código con estetica visual. Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experiencia de usuario (UX). 
+Me apasiona la lógica de fusionar código con estetica visual.
+Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experiencia de usuario (UX). 
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -10,5 +11,5 @@ Me apasiona la lógica de fusionar código con estetica visual. Mi enfoque princ
 * Puedes enviarme un correo a vaniguti@espol.edu.ec
 
 ## Proyectos
-* [EcoWarning](https://github.com/Dalay20/EcoWarning/tree/main) 
-* [LexicAnalizerGo](https://github.com/JamesIGT/LexicAnalizerGO) 
+* [EcoWarning](https://github.com/Dalay20/EcoWarning/tree/main) Landing 
+* [LexicAnalizerGo](https://github.com/JamesIGT/LexicAnalizerGO)  Analizador léxico, sintáctico y semántico para el lenguaje Golang utilizando Python y la libreria PLY.
