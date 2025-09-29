@@ -10,7 +10,5 @@ Me apasiona la lógica de fusionar código con estetica visual. Mi enfoque princ
 * Puedes enviarme un correo a vaniguti@espol.edu.ec
 
 ## Proyectos
-* EcoWarning
-* Proyecto 2
-## Intereses
-* 
+* [EcoWarning](https://github.com/Dalay20/EcoWarning/tree/main) 
+* [LexicAnalizerGo](https://github.com/JamesIGT/LexicAnalizerGO) 
