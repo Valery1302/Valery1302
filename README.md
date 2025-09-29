@@ -1,16 +1,16 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# Soy Valeria Gutierrez
+##Sobre mi
+Me apasiona la lógica de fusionar código con estetica visual. Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experiencia de usuario (UX). 
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Valeria Nicole Gutierrez Padilla
-* Ocupación: Ing. Computación
-* Lugar de residencia: 
-* Sitio web: 
+* Mis áreas de intereses son: El desarrollo frontend, la usabilidad web y la arquitectura limpia de código
+* Puedes enviarme un correo a vaniguti@espol.edu.ec
+
 ## Proyectos
-* 
+* EcoWarning
+* Proyecto 2
 ## Intereses
 * 
