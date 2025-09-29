@@ -1,5 +1,5 @@
 # Soy Valeria Gutierrez
-##Sobre mi
+## Sobre mi
 Me apasiona la lógica de fusionar código con estetica visual. Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experiencia de usuario (UX). 
 ## Contenido
 * [Información personal](#información-personal)
