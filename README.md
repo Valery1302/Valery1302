@@ -3,7 +3,8 @@
 Me apasiona la lógica de fusionar código con estetica visual.
 Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experiencia de usuario (UX). 
 ## Contenido
-* [Información personal](#información-personal)
+![alt text](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7281f2a3-58e2-44a2-b5ed-e39e58c387e0" />
+) [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
