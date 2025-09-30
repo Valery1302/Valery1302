@@ -17,5 +17,6 @@ Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experie
 * [Agenda](https://github.com/GenesisMichilena/Grupo-9) Una aplicación de gestión de contactos donde se incluye: nombre, número de teléfono, foto, y dirección.
   
 ## 💻Lenguajes que domino 
-![Python](<img width="900" height="900" alt="pythoned" src="https://github.com/user-attachments/assets/1d1fdb06-b576-4879-822e-907d7c7eedc0" />)
-![Html](<img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/635aceaa-c16e-469b-b60c-9becae6518d8" />)
+![Python]()
+![Html]()
+<img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/4252c064-dedd-40e7-9c4e-db3cfe39e78f" />
