@@ -18,5 +18,5 @@ Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experie
   
 ## 💻Lenguajes que domino 
 ![Python]()
-![Html]()
-<img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/4252c064-dedd-40e7-9c4e-db3cfe39e78f" />
+
+![Html]<img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/4252c064-dedd-40e7-9c4e-db3cfe39e78f" />
