@@ -5,7 +5,7 @@ Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experie
 ## Contenido
 📋[Información personal](#información-personal)
 💼[Proyectos](#proyectos)
-🛠️[Herramientas](#herramientas-que-domino)
+🛠️[Herramientas que domino](#herramientas-que-domino)
 
 ## Información personal
 * Mis áreas de intereses son: El desarrollo frontend, la usabilidad web y la arquitectura limpia de código
