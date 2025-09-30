@@ -16,7 +16,8 @@ Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experie
 * [LexicAnalizerGo](https://github.com/JamesIGT/LexicAnalizerGO)  Analizador léxico, sintáctico y semántico para el lenguaje Golang utilizando Python y la libreria PLY.
 * [Agenda](https://github.com/GenesisMichilena/Grupo-9) Una aplicación de gestión de contactos donde se incluye: nombre, número de teléfono, foto, y dirección.
   
-## 💻Lenguajes que domino 
-![Python]()
-
-![Html](html.png)
+## 💻Lenguajes que domino
+* HTML
+* PYTHON
+* SQLITE
+* JAVA
