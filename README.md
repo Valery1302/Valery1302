@@ -8,8 +8,8 @@ Mi enfoque principal es el desarrollo de interfaces de usuario (UI) y la experie
 * [Herramientas que domino](#herramientas-que-domino)
 
 ## 📝Información personal
-* Mis áreas de intereses son: El desarrollo frontend, la usabilidad web y la arquitectura limpia de código
-* Puedes enviarme un correo a vaniguti@espol.edu.ec
+* **Mis áreas de intereses son:** El desarrollo frontend, la usabilidad web y la arquitectura limpia de código
+* Puedes enviarme un correo a : vaniguti@espol.edu.ec
 
 ## 💼Proyectos
 * [EcoWarning](https://github.com/Dalay20/EcoWarning/tree/main) Plataforma para ayudar a la ciudadania a reportar de manera más eficiente los incidentes forestales en Ecuador. Donde se utilizó PHP para el backend y Vue 3, Vite, Vue Router, componentes personalizados para el frontend.
